@@ -4,7 +4,7 @@
   переключая тему
 */
 
-.page.theme-dark {
+.page.theme_dark {
   --bg-color: #000028;
   --bg-image: url(../images/cover-image-dark.png);
   --main-title-text-color: #DB00FF;
